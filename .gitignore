@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/HcyGDI/v15/Server/sqlite3
+/HcyGDI/bin/Debug
+/HcyGDI/obj/Debug
